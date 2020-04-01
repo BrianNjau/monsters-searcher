@@ -2,7 +2,7 @@
   "name": "monster-searcher",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://BrianNjau.github.io/Monster-searcher",
+  "homepage": "https://BrianNjau.github.io/monsters-searcher",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
